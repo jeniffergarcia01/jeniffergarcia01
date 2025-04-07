@@ -4,14 +4,13 @@
 
 <br />
 
-Sou uma desenvolvedora FrontEnd apaixonada por tecnologia, autodidata e sempre buscando aprender algo novo! 🇧🇷
+Sou uma desenvolvedora FrontEnd apaixonada por tecnologia e sempre buscando aprender algo novo!
 
 ---
 
 ## 👩‍💻 Sobre mim
 
 - 💼 Analista de Monitoramento em NoC  
-- 📞 Atendimento via WhatsApp e integração com a equipe de sistemas  
 - 🧾 Criação e manutenção de documentação técnica  
 - 🌱 Estudando Desenvolvimento Full Stack na PUCRS  
 - 💡 Em constante aprendizado, especialmente em JavaScript, React e Node.js  
